@@ -9,7 +9,7 @@ description = "Offline recruiting agents for a fictional staffing firm: PII reda
 requires-python = ">=3.12"
 license = { text = "MIT" }
 readme = "README.md"
-dependencies = ["matplotlib==3.9.2"]
+dependencies = ["matplotlib==3.11.2"]
 
 [project.optional-dependencies]
 dev = ["pytest==9.0.3", "ruff==0.14.1"]
